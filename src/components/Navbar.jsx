@@ -29,7 +29,7 @@ const Navbar = () => {
           <p className="text-white text-[18px] font-bold cursor-pointer">
             Anastasia &nbsp;
             <span className="sm:block hidden">
-              | Java Full-stack Developer
+              | Java Full-Stack Developer
             </span>
           </p>
         </Link>
